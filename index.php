@@ -6,7 +6,5 @@
   </head>
   <body>
 
-    <h1>Harlan</h1>
-
   </body>
 </html>

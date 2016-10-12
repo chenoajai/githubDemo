@@ -12,5 +12,7 @@
     <div class="jumbotron">
     </div>
 
+    <div class="col-md-4">
+
   </body>
 </html>
